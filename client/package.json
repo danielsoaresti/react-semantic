@@ -1,8 +1,11 @@
 {
-  "name": "react-mongo",
+  "name": "react-semantic",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "App React Semantic DnlSoares  ",
+  "repository": {
+    "url": "https://github.com/dnlsoares/react-semantic.git"
+  },
+  "main": "index.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --inline --hot"
